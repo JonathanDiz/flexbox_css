@@ -16,7 +16,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Acá va tu código */
 .titulo {
-  visibility: hidden;
+  display: none;
 }
 
 /* Ejercicio 3 */
